@@ -121,7 +121,7 @@ public class Esperar implements Interaction {
 }
 ```
 
-### userinterface
+### User Interface
 
 #### HomeUserInterface
 
@@ -151,7 +151,7 @@ public class HomeUserInterface {
 }
 ```
 
-### drivers
+### Drivers
 
 #### WebDriverBrowser
 
