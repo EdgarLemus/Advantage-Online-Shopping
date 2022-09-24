@@ -121,7 +121,7 @@ public class Esperar implements Interaction {
 }
 ```
 
-### userintarface
+### userinterface
 
 #### HomeUserInterface
 
